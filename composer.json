@@ -16,6 +16,7 @@
             "type": "git"
         }
     ],
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Kyle Spraggs",
