@@ -71,7 +71,7 @@ class MongoLoggerCollectorFactory extends AbstractFactory
     /**
      * {@inheritDoc}
      */
-    public function getOptionsClass(ContainerInterface $container, $key, $name = null)
+    public function getOptionsClass() : string 
     {
         return Options\MongoLoggerCollector::class;
     }
