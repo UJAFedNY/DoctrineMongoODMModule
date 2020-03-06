@@ -10,6 +10,12 @@
     ],
     "homepage": "https://www.doctrine-project.org/",
     "license": "MIT",
+    "repositories": [
+        {
+            "url": "https://github.com/UJAFedNY/mongodb-odm.git",
+            "type": "git"
+        }
+    ],
     "authors": [
         {
             "name": "Kyle Spraggs",
